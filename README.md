@@ -31,6 +31,9 @@ Student ID
 Instructions
 
 Create a GitHub account using your student email (ekkesson@st.ug.edu.gh).
+
 Create a repository named js-for-react-native-11022036.
+
 Clone it to your local machine.
+
 Commit each task separately.
