@@ -6,6 +6,7 @@ Create a JavaScript file named arrayManipulation.js and add a function processAr
 
 Takes an array of numbers as an argument.
 Returns a new array where each even number is squared and each odd number is tripled.
+
 Task 2: String Manipulation
 
 Add a function formatArrayStrings to arrayManipulation.js that:
