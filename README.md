@@ -17,6 +17,7 @@ An array of numbers processed by processArray.
 Modifies each string based on its corresponding number:
 Capitalize the entire string if the number is even.
 Convert the string to lowercase if the number is odd.
+
 Task 3: User Profiles
 
 Create a file userInfo.js and add a function createUserProfiles that:
